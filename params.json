@@ -1,0 +1,29 @@
+{
+	"pattrstorage" : 	{
+		"name" : "params",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.tab[1]" : [ 0.0 ],
+					"password_text" : [ "Password 1" ],
+					"ssid_text" : [ "Wearable Computing" ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"live.tab[1]" : [ 1.0 ],
+					"password_text" : [ "Password 2" ],
+					"ssid_text" : [ "SSID 2" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
