@@ -1,9 +1,9 @@
 # flash
 
 ## Overview
-This repository contains a Max patch specifically designed for flashing the Arduino Nano 33 IoT with code developed and used by the Wearable Computing Group.
-Depends on a binary that is automatically compiled and pushed to this repo when changes are pushed to [flash_source](https://github.com/wearablecomputing/flash_source).
-Checks for the Arduino in code in [here](https://github.com/wearablecomputing/flash_source/blob/main/sketch/sketch.ino) and uses it if connected to the internet.
+- This repository contains a Max patch specifically designed for flashing the Arduino Nano 33 IoT with code developed and used by the Wearable Computing Group.
+- Depends on a binary that is automatically compiled and pushed to this repo when changes are pushed to [flash_source](https://github.com/wearablecomputing/flash_source).
+- Checks for the Arduino in code in [here](https://github.com/wearablecomputing/flash_source/blob/main/sketch/sketch.ino) and uses it if connected to the internet.
 
 ## Features of the Max Package
 - **Arduino Code Generation**: Automatically generates Arduino code for transmitting sensor data to Max, configurable for a specific network, IP, and UDP port via OSC.
